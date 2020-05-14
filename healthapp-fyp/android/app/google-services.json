@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651466133070",
+    "firebase_url": "https://damon-fyp-app.firebaseio.com",
+    "project_id": "damon-fyp-app",
+    "storage_bucket": "damon-fyp-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651466133070:android:b02c06fb7ca8972dc07d1f",
+        "android_client_info": {
+          "package_name": "com.damonsim.healthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651466133070-ki9eg1ldemamc80s3q48f9kubsp0aiod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdGexS8ayczERHXPqZjcIeQtoCfPBa4Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651466133070-ki9eg1ldemamc80s3q48f9kubsp0aiod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
